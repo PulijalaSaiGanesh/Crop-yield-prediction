@@ -1,0 +1,25 @@
+# Flask: Web framework for building the application and handling HTTP requests/responses
+Flask
+
+# pandas: Library for data manipulation and analysis, used for reading Excel files and handling DataFrames
+pandas
+
+# scikit-learn: Machine learning library providing RandomForestRegressor and MLPRegressor for predictions
+scikit-learn
+
+# xgboost: Extreme Gradient Boosting library for machine learning, used for yield prediction
+xgboost
+
+# openpyxl: Engine for reading and writing Excel files (.xlsx), required by pandas for Excel support
+openpyxl
+
+# numpy: Fundamental package for array computing, used for generating random data and numerical operations
+numpy
+
+# requests: HTTP library for making requests, used in test scripts to simulate API calls to the Flask app
+requests
+
+# gunicorn: WSGI server for production deployment
+gunicorn
+
+
